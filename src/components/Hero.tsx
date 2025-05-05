@@ -66,7 +66,7 @@ const Hero: React.FC = () => {
               {/* Profile image with border */}
               <div className="relative rounded-full overflow-hidden border-8 border-wine-100 shadow-2xl transition-transform hover:scale-[1.03] duration-500 ease-in-out z-10">
                 <img
-                  src="src/images/home.jpg"
+                  src="./home.jpg"
                   alt="Vaishnavi K - Profile"
                   className="w-full h-full object-cover"
                 />
