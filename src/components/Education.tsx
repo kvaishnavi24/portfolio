@@ -21,7 +21,7 @@ const educationItems: EducationItem[] = [
     degree: 'Bachelor of Technology in Computer Science and Engineering',
     institution: 'KLEF, Vaddeswaram',
     location: 'Andhra Pradesh',
-    period: '2020 - 2024',
+    period: '2022 - 2026',
     details: [
       'Current GPA: 9.4/10',
       'Specializing in Data Science and big data Analytics',
@@ -33,7 +33,7 @@ const educationItems: EducationItem[] = [
     degree: 'Higher Secondary Education',
     institution: 'Sri Chaitanya Junior College',
     location: 'Andhra Pradesh',
-    period: '2018 - 2020',
+    period: '2020 - 2022',
     details: [
       'Achieved 95% in Mathematics and Science',
       'Participated in various science competitions',
@@ -44,7 +44,7 @@ const educationItems: EducationItem[] = [
     degree: 'Secondary School (10th Grade)',
     institution: 'N St Mathews Public School, Vijayawada',
     location: 'Andhra Pradesh',
-    period: '2017 - 2018',
+    period: '2016 - 2020',
     details: [
       'CGPA: 8.5/10',
       'Completed core subjects including Mathematics, Social Sciences, and Languages',
