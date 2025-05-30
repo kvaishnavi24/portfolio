@@ -13,22 +13,22 @@ const projects: Project[] = [
     title: 'The Role of Big Data in Analyzing Climate Change Impacts on Agricultural Productivity',
     description: 'Developed a comprehensive data analysis pipeline to assess the impact of climate change on crop yields using big data techniques, statistical models, and visualizations.',
     technologies: ['Python', 'Pandas', 'Big Data', 'Matplotlib'],
-    image: 'https://images.pexels.com/photos/3025156/pexels-photo-3025156.jpeg', // Agriculture/Climate themed image
-    link: '#'
+    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.agrivi.com%2Fblog%2Fclimate-change-impacts-on-agriculture%2F&psig=AOvVaw2PTLl_R9qVA6Pb1l3ygBVN&ust=1748670730499000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiS0KLAyo0DFQAAAAAdAAAAABAL.jpeg', // Agriculture/Climate themed image
+    link: 'https://github.com/kvaishnavi24?tab=repositories'
   },
   {
     title: 'Bus Ticket Reservation Booking System',
     description: 'Designed and implemented a web-based system with user registration, seat booking, payment integration, and ticket generation using JSP, Servlets, and MySQL.',
     technologies: ['JSP', 'Servlets', 'MySQL', 'HTML', 'CSS'],
-    image: 'https://images.pexels.com/photos/3859981/pexels-photo-3859981.jpeg', // Bus/Transport themed image
-    link: '#'
+    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fbus-ticket&psig=AOvVaw2inopDg-MiFtf7-mjnNfEx&ust=1748670820800000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODXqM3Ayo0DFQAAAAAdAAAAABAW.jpeg', // Bus/Transport themed image
+    link: 'https://github.com/kvaishnavi24?tab=repositories'
   },
   {
     title: 'Web-Based Resource Library for Educational Materials',
     description: 'Built an online platform for students to access study materials, with authentication, file uploads, search, and role-based access using PHP and MySQL.',
     technologies: ['PHP', 'MySQL', 'HTML', 'CSS'],
-    image: 'https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg', // Education themed image
-    link: '#'
+    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fweb-based-resource-library-educational-materials-likhitha-chowdary--eylyc&psig=AOvVaw28SXVpZa8QIMZVlF894EaR&ust=1748670875561000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCkiObAyo0DFQAAAAAdAAAAABAE.jpeg', // Education themed image
+    link: 'https://github.com/kvaishnavi24?tab=repositories'
   }
 ];
 
