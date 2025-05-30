@@ -84,6 +84,12 @@ const certifications: CertificationItem[] = [
     issuer: 'Microsoft',
     date: '2023',
     description: 'Data visualization and business intelligence using Power BI'
+  },
+  {
+    name: 'Business English Certificate',
+    issuer: 'Cambridge English',
+    date: '2025',
+    description: 'LinguaSkill'
   }
 ];
 
